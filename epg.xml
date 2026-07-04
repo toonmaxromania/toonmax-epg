@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+<channel id="Toonmax Romania"><display-name>Toonmax Romania</display-name></channel>
+<programme start="20260101070000 +0200" stop="20260101071800 +0200" channel="Toonmax Romania"><title lang="ro">Tom și Jerry</title></programme>
+<programme start="20260101073000 +0200" stop="20260101075200 +0200" channel="Toonmax Romania"><title lang="ro">Scooby-Doo, unde ești tu?</title></programme>
+<programme start="20260101080000 +0200" stop="20260101082000 +0200" channel="Toonmax Romania"><title lang="ro">Viața cu Louie</title></programme>
+<programme start="20260101083000 +0200" stop="20260101085200 +0200" channel="Toonmax Romania"><title lang="ro">Ce-i cu Andy?</title></programme>
+<programme start="20260101090000 +0200" stop="20260101092200 +0200" channel="Toonmax Romania"><title lang="ro">Tutenstein</title></programme>
+<programme start="20260101093000 +0200" stop="20260101095000 +0200" channel="Toonmax Romania"><title lang="ro">Spioanele</title></programme>
+<programme start="20260101100000 +0200" stop="20260101102200 +0200" channel="Toonmax Romania"><title lang="ro">W.I.T.C.H.</title></programme>
+<programme start="20260101103000 +0200" stop="20260101105200 +0200" channel="Toonmax Romania"><title lang="ro">Curaj, Câinele cel Fricos</title></programme>
+<programme start="20260101110000 +0200" stop="20260101112200 +0200" channel="Toonmax Romania"><title lang="ro">Regular Show</title></programme>
+<programme start="20260101113000 +0200" stop="20260101115200 +0200" channel="Toonmax Romania"><title lang="ro">Regular Show: Casetele pierdute</title></programme>
+<programme start="20260101120000 +0200" stop="20260101122000 +0200" channel="Toonmax Romania"><title lang="ro">Tinerii Titani</title></programme>
+<programme start="20260101123000 +0200" stop="20260101125200 +0200" channel="Toonmax Romania"><title lang="ro">Transformers Prime</title></programme>
+<programme start="20260101130000 +0200" stop="20260101132300 +0200" channel="Toonmax Romania"><title lang="ro">Samurai Jack</title></programme>
+<programme start="20260101133000 +0200" stop="20260101135200 +0200" channel="Toonmax Romania"><title lang="ro">Batman: Seria Animată</title></programme>
+<programme start="20260101140000 +0200" stop="20260101142000 +0200" channel="Toonmax Romania"><title lang="ro">Spider-Man TAS 1994</title></programme>
+<programme start="20260101143000 +0200" stop="20260101150000 +0200" channel="Toonmax Romania"><title lang="ro">X-MEN '97</title></programme>
+<programme start="20260101150000 +0200" stop="20260101152300 +0200" channel="Toonmax Romania"><title lang="ro">Avatar: Legenda lui Aang</title></programme>
+<programme start="20260101153000 +0200" stop="20260101155200 +0200" channel="Toonmax Romania"><title lang="ro">Ciudățeni</title></programme>
+<programme start="20260101160000 +0200" stop="20260101162300 +0200" channel="Toonmax Romania"><title lang="ro">Familia Simpson</title></programme>
+<programme start="20260101163000 +0200" stop="20260101165400 +0200" channel="Toonmax Romania"><title lang="ro">Big Time Rush</title></programme>
+<programme start="20260101170000 +0200" stop="20260101172300 +0200" channel="Toonmax Romania"><title lang="ro">Hannah Montana</title></programme>
+<programme start="20260101173000 +0200" stop="20260101175300 +0200" channel="Toonmax Romania"><title lang="ro">Magicienii din Waverly Place</title></programme>
+<programme start="20260101180000 +0200" stop="20260101182200 +0200" channel="Toonmax Romania"><title lang="ro">Baftă Charlie</title></programme>
+<programme start="20260101183000 +0200" stop="20260101185500 +0200" channel="Toonmax Romania"><title lang="ro">Attack on Titan</title></programme>
+<programme start="20260101190000 +0200" stop="20260101192300 +0200" channel="Toonmax Romania"><title lang="ro">Naruto</title></programme>
+<programme start="20260101193000 +0200" stop="20260101195800 +0200" channel="Toonmax Romania"><title lang="ro">Stranger Things: Povesti din '85'</title></programme>
+<programme start="20260101200000 +0200" stop="20260101202400 +0200" channel="Toonmax Romania"><title lang="ro">My Hero Academia</title></programme>
+<programme start="20260101203000 +0200" stop="20260101223000 +0200" channel="Toonmax Romania"><title lang="ro">TOONMAX CINEMA</title></programme>
+<programme start="20260101223000 +0200" stop="20260101225200 +0200" channel="Toonmax Romania"><title lang="ro">Family Guy</title></programme>
+<programme start="20260101230000 +0200" stop="20260101232500 +0200" channel="Toonmax Romania"><title lang="ro">Maniacul Junji Ito</title></programme>
+<programme start="20260101233000 +0200" stop="20260101235300 +0200" channel="Toonmax Romania"><title lang="ro">Naruto</title></programme>
+<programme start="20260101000000 +0200" stop="20260101002200 +0200" channel="Toonmax Romania"><title lang="ro">Regular Show: Casetele pierdute</title></programme>
+<programme start="20260101003000 +0200" stop="20260101005300 +0200" channel="Toonmax Romania"><title lang="ro">Familia Simpson</title></programme>
+<programme start="20260101010000 +0200" stop="20260101012300 +0200" channel="Toonmax Romania"><title lang="ro">Familia Simpson</title></programme>
+<programme start="20260101013000 +0200" stop="20260101015500 +0200" channel="Toonmax Romania"><title lang="ro">Attack on Titan</title></programme>
+<programme start="20260101020000 +0200" stop="20260101022300 +0200" channel="Toonmax Romania"><title lang="ro">Naruto</title></programme>
+<programme start="20260101023000 +0200" stop="20260101070000 +0200" channel="Toonmax Romania"><title lang="ro">TOONMAX CINEMA</title></programme>
+</tv>
